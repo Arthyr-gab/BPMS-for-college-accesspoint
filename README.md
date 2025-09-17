@@ -1,1 +1,1 @@
-# BPMS-for-college-accesspoint
+# BPMS-for-college/accesspoint
